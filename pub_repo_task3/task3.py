@@ -6,3 +6,4 @@ def count_of_ways(arg) -> str:
 
 
 print(count_of_ways(5))
+print("Hello")
